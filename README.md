@@ -1,6 +1,11 @@
 <div align="center">
-  <img height="150" src="https://github.com/JhonKing4/JhonKing4/blob/main/Kin6.jpg"  />
+  <img 
+    height="150" 
+    src="https://github.com/JhonKing4/JhonKing4/blob/main/Kin6.jpg" 
+    style="border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" 
+  />
 </div>
+
 
 ###
 
