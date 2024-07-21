@@ -77,8 +77,9 @@
 ###
 
 <br clear="both">
-
-<img align="center" src="https://profile-counter.glitch.me/JhonKing4/count.svg?"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JhonKing4/count.svg?"  />
+</div>
 
 
 
