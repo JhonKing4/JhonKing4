@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Jhoandi and I'm a software engineering student, from Mexico.</h2>
+<h2 align="center">Hi 👋! My name is Jhoandi and I'm a software engineering student, from Mexico.</h2>
 
 ###
 
