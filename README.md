@@ -57,9 +57,19 @@
 
 ###
 
-//<br clear="both">
+<br clear="both">
 
-//<img src="https://raw.githubusercontent.com/JhonKing4/JhonKing4/output/snake.svg" alt="Snake animation" />
+<img align="left" src="https://profile-counter.glitch.me/JhonKing4/count.svg?"  />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Jhonking">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jhonking&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 ###
 
