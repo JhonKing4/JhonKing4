@@ -48,7 +48,14 @@
 
 ###
 
-<div align="left">
+###
+
+
+<h3 align="left">📬 Connect with Me</h3>
+
+
+###
+<div align="center">
   <a href="https://www.instagram.com/jh0nking_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -65,20 +72,14 @@
 
 ###
 
+<h3 align="left">📊 Profile Views</h3>
+
+###
+
 <br clear="both">
 
-<img align="left" src="https://profile-counter.glitch.me/JhonKing4/count.svg?"  />
+<img align="center" src="https://profile-counter.glitch.me/JhonKing4/count.svg?"  />
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Jhonking">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312gsdf7iu6bak2hjgqdidur7hjq&unique={true|1|on|yes}" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-###
 
 
