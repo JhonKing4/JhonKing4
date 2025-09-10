@@ -76,7 +76,6 @@
 
 ###
 
-<h3 align="left">📊 Profile Views</h3>
 
 ###
 
